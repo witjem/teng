@@ -1,4 +1,5 @@
 # Teng
+[ ![Download](https://api.bintray.com/packages/witjem/teng/teng/images/download.svg?version=0.9) ](https://bintray.com/witjem/teng/teng/0.9/link)
 
 Teng is lightweight library that can be used for testing your code.
 
